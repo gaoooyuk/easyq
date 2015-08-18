@@ -1,0 +1,24 @@
+{
+  "name": "easyq",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "deasync": "^0.1.0",
+    "node-q": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaoooyuk/easyq.git"
+  },
+  "author": "Yuke Gao <chuckgao.cg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaoooyuk/easyq/issues"
+  },
+  "homepage": "https://github.com/gaoooyuk/easyq#readme"
+}
